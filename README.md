@@ -28,7 +28,9 @@ This project analyzes A/B test results to determine if there is a statistically 
    cd ab-testing
 
 2. Install the required packages:
-     pip install -r requirements.txt
+
+   
+        pip install -r requirements.txt
 
 
 ## Usage
